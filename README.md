@@ -1,5 +1,15 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+ <a href="#">
+  <img src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://github.com/IgnacioRMN">
+  <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github">
+</a>
+<a href="https://www.linkedin.com/in/igramon/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
 ## Sobre Mi👨‍💻
