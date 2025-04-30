@@ -1,59 +1,29 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
- <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-</a>
+Hi! My name is José Ignacio Ramón
+==========================================================================================================================================
 
-<a href="https://www.linkedin.com/in/igramon/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+Web Developer Fullstack
+-----------------------
 
-</div>
+Constantly evolving, dedicating time and energy to both technical growth and the development of soft skills, with the intention of enriching not only my professional life but also seeking a balance that allows me to face life's challenges with purpose and awareness.
 
-## Sobre Mi👨‍💻
+* 🌍  I'm based in Tucumán, Argentina.
+* 🖥️  See my portfolio at [this link.](http://ignacioramon.netlify.app)
+* ✉️  You can contact me at [joseignacioramon24@gmail.com](mailto:joseignacioramon24@gmail.com)
+* 🤝  I'm open to collaborating on web projects where I can apply my knowledge, keep learning, and contribute value as part of a team.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-- :school: Estudio `Programación Web` en [Rollingcode School](https://web.rollingcodeschool.com/) y complemento con otros cursos varios.
-- :computer:  Me encanta aprender, explorando nuevos lenguajes, frameworks y herramientas.
-- :boom: En constante evolución, dedicando tiempo y energía tanto al crecimiento técnico como al desarrollo de habilidades blandas, con la intención de enriquecer no solo mi vida profesional, sino buscando un equilibrio que me permita afrontar los desafíos de la vida con propósito y conciencia.
-<br>
-
-## Habilidades
-
-<h4> Lenguajes</h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
- 
-</span>
-
-<h4> Frameworks </h4>
-<span> 
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  
- 
-</span>
-
-   <h4> DB </h4>
-<span> 
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
-
- 
-</span>
+### Skills
 
 
-<h4> Aplicaciones & Herramientas </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
- 
-  
- 
-</span>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/96/css3.png" alt="css3"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/96/bootstrap--v2.png" alt="bootstrap"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/96/tailwindcss.png" alt="tailwindcss"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript"/></a><a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react"/></a>
+</p>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Node" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="express-js"/> 
+</a><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/></a>
+</p>
+
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/IgnacioRMN" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/igramon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
