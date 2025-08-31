@@ -7,7 +7,7 @@
 
 I'm a fullstack web developer in constant evolution, committed to continuous learning both technically and personally. I strive to grow professionally while maintaining a healthy balance, facing challenges with purpose and awareness.
 
-- 🌍  I'm based in **Tucumán, Argentina**.  
+- 🌍  I'm from **Tucumán, Argentina**.  
 - 💻  Check out my portfolio: [ignacioramon.vercel.app](https://ignacioramon.vercel.app)  
 - ✉️  Reach me at: [joseignacioramon24@gmail.com](mailto:joseignacioramon24@gmail.com)  
 - 🤝  Open to collaborating on web projects where I can contribute, learn, and grow as part of a team. 
