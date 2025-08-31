@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm José Ignacio Ramón</h1>
-<h3 align="center">Fullstack Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
 🎯 **About Me**
 
-I'm a fullstack web developer in constant evolution, committed to continuous learning both technically and personally. I strive to grow professionally while maintaining a healthy balance, facing challenges with purpose and awareness.
+I'm a fullstack software developer in constant evolution, committed to continuous learning both technically and personally. I strive to grow professionally while maintaining a healthy balance, facing challenges with purpose and awareness.
 
 - 🌍  I'm from **Tucumán, Argentina**.  
 - 💻  Check out my portfolio: [ignacioramon.vercel.app](https://ignacioramon.vercel.app)  
